@@ -20,7 +20,7 @@ Specifications
 A configuration file allow to define permanent elements (account, URL ...) and default choices (button appearance...).
 You can also switch to Sandbox mode.
 
-###features
+###Features
 
 You can add as many button as you want in your page. This plugin allow you to create a small shop very easily.
 
