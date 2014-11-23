@@ -11,7 +11,7 @@ Add the following code in config.js
 
 ```
 config.extraPlugins='ckpaypal';
-config.extraAllowedContent='input[*]';
+config.extraAllowedContent='input[*](ckpaypal)';
 ```
 
 Specifications

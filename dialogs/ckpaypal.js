@@ -284,6 +284,3 @@ CKEDITOR.dialog.add('ckpaypalDialog',function(editor){
 		}
 	};
 });
-//
-var tag=document.getElementsByTagName('span'),v;
-for(v in tag){if((' '+tag[v].className+' ').indexOf(' cke_button__ckpaypal_icon ')>-1)tag[v].onclick=function(){ckpayMem=['','','','',''];};}
