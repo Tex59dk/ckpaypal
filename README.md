@@ -4,6 +4,16 @@ CKPaypal
 CKPaypal is a Paypal plugin for CKEditor.
 It adds a Paypal button in the CKEditor taskbar.
 
+Installation
+------------
+
+Add the following code in config.js
+
+```
+config.extraPlugins='ckpaypal';
+config.extraAllowedContent='input[*]';
+```
+
 Specifications
 --------------
 
@@ -33,7 +43,7 @@ Tested on CKEditor 4.3.2
 Support
 -------
 
-More details in french and screenshots [here](http://www.boiteasite.fr/fiches/ckpaypal.html)
+Demo, screenshots and more details in french [here](http://www.boiteasite.fr/fiches/ckpaypal.html)
 
 You can test the power of this plugin with [CMSUno](https://github.com/boiteasite/cmsuno)
 
